@@ -1,3 +1,5 @@
+apt-get install build-essential automake libtool
+
 xTun
 =================
 A secure and fast VPN for protect your network traffic
